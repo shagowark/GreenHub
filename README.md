@@ -24,3 +24,5 @@
 [pdf](https://github.com/shagowark/GreenHub/blob/main/docs/GreenHub%20ТЗ%20презентация.pdf)
 - Видео презентации ТЗ 
 [ссылка](https://youtu.be/XPS5ZbiWgX4)
+- Перечень задач по оформлению технического задания
+[pdf](https://github.com/shagowark/GreenHub/blob/main/docs/Перечень%20задач%20по%20оформлению%20технического%20задания.pdf)
